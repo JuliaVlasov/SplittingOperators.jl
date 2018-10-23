@@ -1,0 +1,6 @@
+authors = ["Pierre Navaro <pierre.navaro@math.cnrs.fr>"]
+name = "SplittingOperators"
+uuid = "f32125ac-d6a3-11e8-0cad-b1bde0c48ea2"
+version = "0.1.0"
+
+[deps]

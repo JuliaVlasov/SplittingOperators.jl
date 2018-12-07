@@ -17,7 +17,5 @@ jobs:
       os: osx
       script:
         - julia -e 'using Pkg; Pkg.instantiate()'
-        - julia --project=docs/ -e 'using Pkg; Pkg.instantiate();
-                                    Pkg.develop(PackageSpec(path=pwd()))'
-        - julia --project=docs/ docs/make.jl
+        - julia docs/make.jl
       after_success: skip

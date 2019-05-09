@@ -5,6 +5,8 @@
 
 Splitting Operators for the Vlasov-Poisson problem.
 
+**NOTE: This package is still very much under development and is not fully tested.**
+
 This package is now at https://github.com/pnavaro/Splittings.jl
 
 I will move it here soon.

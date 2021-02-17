@@ -1,6 +1,6 @@
 name = "SplittingOperators"
 uuid = "f32125ac-d6a3-11e8-0cad-b1bde0c48ea2"
-authors = ["Pierre Navaro <pierre.navaro@math.cnrs.fr>"]
+authors = "JuliaVlasov"
 version = "0.1.0"
 
 [deps]
